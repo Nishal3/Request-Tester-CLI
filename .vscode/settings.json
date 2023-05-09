@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "~/.local/share/virtualenvs/assault-F3hjvTUZ/bin/python",
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "black",
+}
