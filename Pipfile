@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 click = "*"
+requests = "*"
+typing = "*"
 
 [dev-packages]
 twine = "*"
