@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = "assault"
 DESCRIPTION = "A Python based web load testing tool."
-URL = "https://github.com/me/myproject"
+URL = "https://github.com/Nishal3/Request-Tester-CLI"
 EMAIL = "nepalnishal4@gmail.com"
 AUTHOR = "Nishal Nepal"
 REQUIRES_PYTHON = ">=3.7.0"
