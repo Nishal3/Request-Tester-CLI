@@ -10,8 +10,8 @@ typing = "*"
 
 [dev-packages]
 twine = "*"
-black = "*"
 pylint = "*"
+black = "*"
 
 [requires]
 python_version = "3.7"
